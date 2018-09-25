@@ -1,4 +1,5 @@
-# Informatica PO Informatiesysteem
+# Informatica PO Informatiesysteem Gluipertje (Messenger)
+Wij doen onze praktische opdracht over een messenger.
 ## Plan van aanpak
 ### Merijn
 > ##### Geef een duidelijke algemene beschrijving van het informatiesysteem: wat voor soort informatie systeem is het, wat is het doel van het systeem, wie gebruikt het en wat het globaal kan. Ga ook na of het informatie systeem voldoet aan de eisen die aan een informatiesysteem worden gesteld. Waar zitten in het informatie systeem de risico’s t.a.v. deze eisen?
@@ -15,3 +16,7 @@
 > ##### Bepaal welke informatie (/gegevens) ingevoerd worden in het informatie systeem en welke informatie het informatie systeem produceert. Teken deze informatie(/gegevens) in een context diagram.
 
 > ##### Maak een overzicht van de hulpbronnen. Bepaal voor elke hulpbron welke rol deze speelt of heeft gespeeld in het informatie systeem.
+
+
+## Duidelijke beschrijving informatiesysteem
+##### De informatie die een messenger aanbiedt komt in de vorm van berichten. Men kan via dit systeem berichten sturen naar elkaar. Hiermee doelt het erop om een handige en simpele manier van communicatie te leveren.
