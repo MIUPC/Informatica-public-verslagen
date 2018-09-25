@@ -1,0 +1,3 @@
+# Informatica PO Informatiesysteem
+## Plan van aanpak
+> ##### Geef een duidelijke algemene beschrijving van het informatiesysteem: wat voor soort informatie systeem is het, wat is het doel van het systeem, wie gebruikt het en wat het globaal kan. Ga ook na of het informatie systeem voldoet aan de eisen die aan een informatiesysteem worden gesteld. Waar zitten in het informatie systeem de risico’s t.a.v. deze eisen? (Merijn)
