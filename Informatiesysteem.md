@@ -19,4 +19,4 @@ Wij doen onze praktische opdracht over een messenger.
 
 
 ## Duidelijke beschrijving informatiesysteem
-##### De informatie die een messenger aanbiedt komt in de vorm van berichten. Men kan via dit systeem berichten sturen naar elkaar. Hiermee doelt het erop om een handige en simpele manier van communicatie te leveren.
+###### De informatie die een messenger aanbiedt komt in de vorm van berichten. Men kan via dit systeem berichten sturen naar elkaar. Hiermee doelt het erop om een handige en simpele manier van communicatie te leveren.
