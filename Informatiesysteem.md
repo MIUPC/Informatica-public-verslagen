@@ -19,4 +19,4 @@ Wij doen onze praktische opdracht over een messenger.
 
 
 ## Duidelijke beschrijving informatiesysteem
-###### De informatie die een messenger aanbiedt komt in de vorm van berichten. Men kan via dit systeem berichten sturen naar elkaar. Hiermee doelt het erop om een handige en simpele manier van communicatie te leveren.
+ De informatie die een messenger aanbiedt komt in de vorm van berichten. Men kan via dit systeem berichten sturen naar elkaar. Hiermee doelt het erop om een handige en simpele manier van communicatie te leveren. De vier eisen aan een informatiesysteem zijn betrouwbaarheid, continuïteit, efficiëntie en effectiviteit. Aan betrouwbaarheid voldoet de messenger, want de (volledige) berichten komen alleen terecht bij mensen waar deze berichten naar gestuurd worden. Aan continuïteit voldoet onze messenger nog niet, want de server waarop hij gehost wordt heeft regelmatig problemen. De efficiëntie is ook nog niet heel goed, want heel veel gebruikers zijn er nog niet. De effectiviteit is wel goed, want het systeem behaalt het doel dat we willen; de mogelijkheid om berichten uit te wisselen.
