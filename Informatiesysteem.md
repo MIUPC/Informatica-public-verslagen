@@ -1,3 +1,6 @@
+# Hey nooger verplaats naar HO k1 ing pls
+
+
 # Informatica PO Informatiesysteem Gluipertje (Messenger)
 Wij doen onze praktische opdracht over een messenger.
 ## Plan van aanpak
