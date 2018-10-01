@@ -37,7 +37,14 @@ De eisen die aan informatie gesteld worden, zijn: Volledigheid; Relevantie; Actu
 De volledigheid bij de messenger voldoet want je ziet de boodschapen van andere gebruikers in hun volledigheid, ook zie je alle informatie over de user die de messenger bekend is (behalve de token en wachtwoord).
 ##### Relevantie:
 Ook hieraan voldoet de Messenger want de informatie de je wilt hebben op de site, de berichten, krijg je ook allemaal met zo min mogelijk andere andere onnodige informatie in het scherm.
-
+##### Actualiteit:
+Dit doet de Messenger ook goed want het laat de meest recente berichten als eerst zien en je ziet de oudere pas als je naar boven scrollt.
+##### Juistheid:
+Gluipertje geeft de juist informatie omdat hij in bijna alle gevallen letterlijk de berichten laat zien die andere gebruikers stuurden. In sommige gevallen zijn er bugs waardoor hij geen messages laat zien.
+##### Nauwkeurigheid:
+De informatie die hiermee te maken heeft is de verzend tijd van berichten die niet heel nauwkeurig meer is na een dag want dan staat er gewoon 'one day ago' dus dit punt voldoet niet echt.
+##### Controleerbaarheid:
+De informatie in de Messenger is helaas niet te controleren want de enige manier om de informatie te bekijken is via de Messenger zelf. In sommige gevallen kun je het wel controleren door het na te vragen maar dat is niet echt praktisch. Dit punt voldoet dus niet.
 
 
 
