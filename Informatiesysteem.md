@@ -29,7 +29,10 @@ Wij doen onze praktische opdracht over een messenger.
 
 ### Invoer/uitvoer informatie
 De invoer van gegevens van de messenger bestaat vooral uit text en foto's die de gebruiker verstuurt. Welke gegevens ook vanaf de gebruiker gestuurd worden zijn de inloggegevens van de gebruiker. Als een gebruiker voor het eerst op de messenger komt registreerd hij/zij zich en die inloggegevens/informatie worden naar de server gestuurd. Als diezelfde gebruiker weer inlogt stuurt de gebruiker de inloginformatie naar de server die dan controleert of de informatie klopt, en de output terugkoppelt naar de gebruiker. Namelijk, of hij/zij de juiste gegevens heeft ingevoerd. Als dat het geval is komt de gebruiker in de messenger, als dat niet het geval is krijgt de gebruiker een foutmelding. 
-> ###### diagram maken nog xd
+
+### Welke instelling gebruikt Gluipertje?
+De Messenger Gluipertje is op dit moment alleen gericht op individuen dus heeft het geen toepassing op bedrijven en kunnen we de secundaire en primaire processen niet beschrijven. Later wordt Gluipertje misschien ook wel speciaal ontwikkeld voor communicatie binnen bedrijven maar daar zijn nog geen plannen voor.
+
 
 ### Voldoet de informatie?
 De eisen die aan informatie gesteld worden, zijn: Volledigheid; Relevantie; Actualiteit; Juistheid; Nauwkeurigheid; Controleerbaarheid; Overzichtelijkheid en Tijdigheid.
