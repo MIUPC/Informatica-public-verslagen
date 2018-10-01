@@ -45,7 +45,9 @@ Gluipertje geeft de juist informatie omdat hij in bijna alle gevallen letterlijk
 De informatie die hiermee te maken heeft is de verzend tijd van berichten die niet heel nauwkeurig meer is na een dag want dan staat er gewoon 'one day ago' dus dit punt voldoet niet echt.
 ##### Controleerbaarheid:
 De informatie in de Messenger is helaas niet te controleren want de enige manier om de informatie te bekijken is via de Messenger zelf. In sommige gevallen kun je het wel controleren door het na te vragen maar dat is niet echt praktisch. Dit punt voldoet dus niet.
-
-
+##### Overzichtelijkheid: 
+Sinds een recente update van Gluipertje is de Overzichtelijkheid flink verbeterd dus nu voldoet het prima, de berichten zijn duidelijk te lezen en ze staan in chronologische volgorde.
+##### Tijdigheid:
+Door veel crashes van de server waar de website op wordt gehosted is de informatie niet altijd tijdig op te vragen. Door de recente update is de 'uptime' gelukkig zeer verbeterd.
 
 
