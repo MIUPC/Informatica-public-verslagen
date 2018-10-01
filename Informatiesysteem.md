@@ -34,7 +34,9 @@ De invoer van gegevens van de messenger bestaat vooral uit text en foto's die de
 ### Voldoet de informatie?
 De eisen die aan informatie gesteld worden, zijn: Volledigheid; Relevantie; Actualiteit; Juistheid; Nauwkeurigheid; Controleerbaarheid; Overzichtelijkheid en Tijdigheid.
  ##### Volledigheid:
-De volledigheid bij de messenger voldoet want je ziet de boodschapen van andere gebruikers in hun volledigheid, ook zie je alle informatie over de user die de messenger bekend is (behalve de token en wachtwoord)
+De volledigheid bij de messenger voldoet want je ziet de boodschapen van andere gebruikers in hun volledigheid, ook zie je alle informatie over de user die de messenger bekend is (behalve de token en wachtwoord).
+##### Relevantie:
+Ook hieraan voldoet de Messenger want de informatie de je wilt hebben op de site, de berichten, krijg je ook allemaal met zo min mogelijk andere andere onnodige informatie in het scherm.
 
 
 
