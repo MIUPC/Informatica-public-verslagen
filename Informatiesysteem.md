@@ -1,6 +1,3 @@
-# Hey nooger verplaats naar HO k1 ing pls
-
-
 # Informatica PO Informatiesysteem Gluipertje (Messenger)
 Wij doen onze praktische opdracht over een messenger.
 ## Plan van aanpak
@@ -26,6 +23,9 @@ Wij doen onze praktische opdracht over een messenger.
 
 ## Welke informatie/gegevens worden ingevoerd en welke komt/komen er weer uit?
  Bij een messenger praten we eigenlijk over de directe verzending van ingevoerde informatie, dus wat er in gaat, komt er ook weer hetzelfde aan de andere kant uit. Je kan wel constateren dat jij alleen je bericht invoert, en dat het systeem hier jouw naam en eventueel een timestamp aan koppelt. Bij de registratie bij een messenger voer je je gebruikersnaam en wachtwoord, en eventuele andere gegevens in. Veel mobiele messengers gebruiken ook een registratie die wordt gebonden aan je telefoonnummer.
+ 
+## Welke invloed heeft het gekozen systeem op privacy, werkgelegenheid, etc.?
+
 
 ### Invoer/uitvoer informatie
 De invoer van gegevens van de messenger bestaat vooral uit text en foto's die de gebruiker verstuurt. Welke gegevens ook vanaf de gebruiker gestuurd worden zijn de inloggegevens van de gebruiker. Als een gebruiker voor het eerst op de messenger komt registreerd hij/zij zich en die inloggegevens/informatie worden naar de server gestuurd. Als diezelfde gebruiker weer inlogt stuurt de gebruiker de inloginformatie naar de server die dan controleert of de informatie klopt, en de output terugkoppelt naar de gebruiker. Namelijk, of hij/zij de juiste gegevens heeft ingevoerd. Als dat het geval is komt de gebruiker in de messenger, als dat niet het geval is krijgt de gebruiker een foutmelding. 
