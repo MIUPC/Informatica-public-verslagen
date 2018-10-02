@@ -2,7 +2,7 @@
 Wij doen onze praktische opdracht over een messenger.
 ## Plan van aanpak
 ### Merijn
-> ##### Geef een duidelijke algemene beschrijving van het informatiesysteem: wat voor soort informatie systeem is het, wat is het doel van het systeem, wie gebruikt het en wat het globaal kan. Ga ook na of het informatie systeem voldoet aan de eisen die aan een informatiesysteem worden gesteld. Waar zitten in het informatie systeem de risico’s t.a.v. deze eisen?
+> ##### Geef een duidelijke algemene beschrijving van het informatiesysteem: wat voor soort informatie systeem is het, wat is het doel van het systeem, wie gebruikt het en wat het globaal kan. Ga ook na of het informatie systeem voldoet aan de eisen die aan een informatiesysteem worden gestzzeld. Waar zitten in het informatie systeem de risico’s t.a.v. deze eisen?
 
 > ##### Analyseer welke processen door het systeem worden bestuurd en van welke sturingssignalen sprake is. Beschrijf de invoer – verwerking - uitvoer.
 
@@ -26,6 +26,9 @@ Wij doen onze praktische opdracht over een messenger.
  
 ## Welke invloed heeft het gekozen systeem op privacy, werkgelegenheid, etc.?
 In een messenger stuurt iemand wat die persoon wil. Op de site van onze messenger staan ook geen trackers, wat betekent dat er geen invloed op privacy is. Het kan in de toekomst wel een verbetering brengen aan de werkgelegenheid in bedrijven en projecten, maar het is nu nog niet verstandig om in één grote chatroom je project te gaan bespreken. Lichamelijke en geestelijke klachten zijn eigenlijk niet van toepassing op dit systeem. Sociale veiligheid is wel een ding. De verwantwoordelijkheid van het niet delen van gevoelige informatie ligt bij de gebruikers. Als ze onverstandig omgaan met andermans privégegevens, kunnen we daar weinig aan doen.
+
+## Welke hulpbronnen hebben welke functie?
+Er zijn vijf hulpbronnen; hardware, software, gegevensbestanden, procedures, en mensen. De functie van de hardware is in het geval van de server(s) om te zorgen dat het systeem kan draaien, verbindingen kan maken met clienten, en bestanden op kan slaan. De hele messenger is eigenlijk de software die op de hardware van de server runt. Ook behoren het besturingssysteem en de beheringssoftware tot deze categorie. Alle berichten in de messenger worden opgeslagen in gegevensbestanden. Ook gebruikersnamen 
 
 ### Invoer/uitvoer informatie
 De invoer van gegevens van de messenger bestaat vooral uit text en foto's die de gebruiker verstuurt. Welke gegevens ook vanaf de gebruiker gestuurd worden zijn de inloggegevens van de gebruiker. Als een gebruiker voor het eerst op de messenger komt registreerd hij/zij zich en die inloggegevens/informatie worden naar de server gestuurd. Als diezelfde gebruiker weer inlogt stuurt de gebruiker de inloginformatie naar de server die dan controleert of de informatie klopt, en de output terugkoppelt naar de gebruiker. Namelijk, of hij/zij de juiste gegevens heeft ingevoerd. Als dat het geval is komt de gebruiker in de messenger, als dat niet het geval is krijgt de gebruiker een foutmelding. 
